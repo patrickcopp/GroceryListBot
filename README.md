@@ -10,13 +10,13 @@
 
 ## Commands
 ### Add
-![](img/add.png)
+![](img/add.PNG)
 
 ### Remove
-![](img/remove.png)
+![](img/remove.PNG)
 
 ### List
-![](img/list.png)
+![](img/list.PNG)
 
 ### Clear
-![](img/clear.png)
+![](img/clear.PNG)
