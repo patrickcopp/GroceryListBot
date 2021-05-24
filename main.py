@@ -12,7 +12,6 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    print(message.content)
     if not message.content.startswith('!'):
         return
     # if message.content == '!quit':
